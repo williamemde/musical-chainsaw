@@ -1,2 +1,2 @@
 # musical-chainsaw
-My first repository. This will be form my github.io pages.
+My first repository. This will be for my github.io pages.
